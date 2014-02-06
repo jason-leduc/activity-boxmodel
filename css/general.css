@@ -60,7 +60,7 @@ h1 {
 
 h1 + p {
     font-size: 1.25rem;
-    font-weight: bold;
+    font-weight: bold; 
 }
 
 p {
